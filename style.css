@@ -16,11 +16,9 @@
 body {
  background-color: var(--black);
  height: 100vh;
- display: flex;C4F82A;
+ display: flex;
  justify-content: center;
  align-items: center;
- padding: 40px;
-
 }
 div{
     background-color: var(--dark-grey);
@@ -28,10 +26,11 @@ div{
     width: 384px;
     text-align: center;
     border-radius: 12px;
+    padding: 40px;
 }
 img{
     width: 88px;
-    border-radius: 50%;
+    border-radius: 60%;
     margin-bottom: 24px;
 
 }
